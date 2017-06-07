@@ -3,6 +3,10 @@ action :install
 end
 
 file "/etc/motd" do
-content "Property of
- ... "
+content "Property of victor
+ "
+
+owner "root"
+group "root"
+
 end
