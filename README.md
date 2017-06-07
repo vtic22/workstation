@@ -1,4 +1,7 @@
 # workstation
 
-TODO: Enter the cookbook description here.
+Recetas de Victor del Curso de Chef - CNTG 
+
+Repositorio en: https://github.com/vtic22/workstation.git
+
 
